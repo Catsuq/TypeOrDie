@@ -1,5 +1,5 @@
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/dd922babbf1164c0e5441f20adedd791303f51b5/source.lua"))()
 local Window = Library.CreateLib("Type Or Die Words 1.2AZ", "Synapse")
 local Tab = Window:NewTab("Easy")
 local Section = Tab:NewSection("Animal ocean: INDONESIANSPECKLEDCARPETSHARK")
